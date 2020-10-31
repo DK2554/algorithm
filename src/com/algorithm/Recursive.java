@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Recursive {
 
 		
+	//백준알고리즘 10872 재귀함수 풀이
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
